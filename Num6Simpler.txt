@@ -1,0 +1,1055 @@
+{16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+   dot[p[1], \[Epsilon][4]]*dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], v[0]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], v[0]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+   dot[p[1], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][4]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]] - 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[1], \[Epsilon][4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]] - 
+  16*dot[p[1], \[Epsilon][4]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]] - 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]] - 
+  16*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], v[0]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[3], \[Epsilon][4]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][4]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], v[0]]*
+   dot[p[3], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*
+   dot[p[3], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]] - 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][1]]*dot[p[3], v[0]]*
+   dot[p[3], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]] - 
+  16*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*
+   dot[p[3], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+   dot[p[3], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[3], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]] - 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[3], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]] - 
+  16*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[3], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+   dot[p[1], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][4]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+   dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]] - 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[1], \[Epsilon][4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]] - 
+  16*dot[p[1], \[Epsilon][4]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]] - 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]] - 
+  16*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]] - 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]] - 
+  16*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]] - 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][4]]*
+   dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]] - 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][4]]*
+   dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]] + 
+  16*dot[p[1], \[Epsilon][4]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[3], \[Epsilon][2]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]] + 
+  16*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]]*
+   dot[p[3], \[Epsilon][2]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]] - 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[3], \[Epsilon][1]]*
+   dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]] + 
+  16*dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][2]]*
+   dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][1]])/
+   (dot[p[2], v[0]] + dot[p[3], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][1]])/
+   (dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*
+    dot[v[0], \[Epsilon][1]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) - (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][1]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) - (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][1]])/(dot[p[2], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][1]])/
+   (dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][1]])/
+   (dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][1]])/
+   (dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][1]])/
+   (dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][4]]*dot[p[3], \[Epsilon][2]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][1]])/
+   (dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[3], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][1]])/
+   (dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[1], \[Epsilon][4]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]])/
+   dot[p[2], v[0]] - (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*
+    dot[v[0], \[Epsilon][2]])/dot[p[2], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], \[Epsilon][1]]*
+    dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]])/
+   dot[p[2], v[0]] - (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][2]])/(dot[p[2], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[1], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]])/
+   dot[p[2], v[0]] - (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*
+    dot[p[2], \[Epsilon][3]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][2]])/(dot[p[2], v[0]] + dot[p[3], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]])/
+   dot[p[2], v[0]] + (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*
+    dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][2]])/dot[p[2], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[3], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][2]])/
+   dot[p[2], v[0]] + (16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][2]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][2]])/
+   (dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][2]])/(dot[p[2], v[0]]*(dot[p[3], v[0]] + 
+     dot[p[4], v[0]])) + (16*dot[p[1], p[2]]*dot[p[2], p[3]]*
+    dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]])/
+   (dot[p[2], v[0]]*(dot[p[3], v[0]] + dot[p[4], v[0]])) - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][2]])/(dot[p[2], v[0]]*(dot[p[2], v[0]] + 
+     dot[p[3], v[0]] + dot[p[4], v[0]])) - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*
+   dot[v[0], \[Epsilon][3]] - 16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]]*
+   dot[v[0], \[Epsilon][3]] - (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*
+    dot[p[1], \[Epsilon][4]]*dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][3]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*
+    dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]])/
+   dot[p[3], v[0]] - (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*
+    dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]]*
+    dot[v[0], \[Epsilon][3]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]]*
+    dot[v[0], \[Epsilon][3]])/dot[p[3], v[0]] - 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[3], \[Epsilon][4]]*dot[v[0], \[Epsilon][3]] - 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]])/
+   dot[p[3], v[0]] - (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][3]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*
+    dot[v[0], \[Epsilon][3]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*
+    dot[v[0], \[Epsilon][3]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]])/
+   dot[p[3], v[0]] - (16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][4]]*
+    dot[p[2], p[3]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][3]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]])/
+   dot[p[3], v[0]] - (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*
+    dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][3]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[3], \[Epsilon][2]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]])/
+   (dot[p[2], v[0]] + dot[p[3], v[0]]) + 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][4]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][3]])/
+   dot[p[3], v[0]] + (16*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][3]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][3]])/
+   dot[p[3], v[0]] + (16*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][3]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][4]]*dot[p[3], \[Epsilon][1]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][3]])/
+   (dot[p[2], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][3]])/(dot[p[3], v[0]]*(dot[p[2], v[0]] + 
+     dot[p[4], v[0]])) + (16*dot[p[1], p[2]]*dot[p[2], p[3]]*
+    dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]])/
+   (dot[p[3], v[0]]*(dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]])) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[1], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][3]])/(dot[p[2], v[0]]*dot[p[3], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][3]])/(dot[p[2], v[0]]*dot[p[3], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][3]])/(dot[p[2], v[0]]*(dot[p[2], v[0]] + 
+     dot[p[3], v[0]])) - 16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+   dot[p[2], p[4]]*dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]] - 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]] - 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*dot[v[0], \[Epsilon][4]] - 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], p[4]]*
+   dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]] - 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+   dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]] + 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*
+   dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]] + 
+  16*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+   dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]] - 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] - (16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[2], p[4]]*dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[4]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] - (16*dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] - (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[4]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*dot[p[3], v[0]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] - (16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[2], p[4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] - (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[4]]*
+    dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] - (16*dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], p[4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] + (16*dot[p[1], \[Epsilon][3]]*dot[p[2], p[4]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[4]]*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] + (16*dot[p[2], p[4]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] + (16*dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], p[4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][2]]*dot[p[4], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][1]]*dot[p[4], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[4], v[0]]) + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]] + 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[4], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[4], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][4]])/((dot[p[2], v[0]] + dot[p[3], v[0]])*
+    dot[p[4], v[0]]) + (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], p[4]]*dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) + (16*dot[p[1], p[2]]*dot[p[2], p[4]]*
+    dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]])/
+   (dot[p[4], v[0]]*(dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]])) + 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[4], v[0]]*(dot[p[2], v[0]] + 
+     dot[p[3], v[0]] + dot[p[4], v[0]])) + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], p[4]]*
+    dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[2], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[2], v[0]]*dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], p[4]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[2], v[0]]*dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[2], v[0]]*dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], p[4]]*
+    dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[2], v[0]]*(dot[p[2], v[0]] + 
+     dot[p[4], v[0]])) + (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*
+    dot[p[2], p[4]]*dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*
+    dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[3], p[4]]*dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]])/
+   dot[p[4], v[0]] + (16*dot[p[1], p[3]]*dot[p[1], p[4]]*
+    dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]])/
+   (dot[p[3], v[0]]*dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*
+    dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], p[4]]*
+    dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*dot[v[0], \[Epsilon][3]]*
+    dot[v[0], \[Epsilon][4]])/(dot[p[3], v[0]]*(dot[p[3], v[0]] + 
+     dot[p[4], v[0]])) - (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*
+    dot[p[2], v[0]]*dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]])/
+   (dot[p[3], v[0]]*(dot[p[3], v[0]] + dot[p[4], v[0]])) - 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[1], \[Epsilon][4]]*
+   dot[p[2], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], v[0]]*
+   dot[p[2], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], v[0]]*
+   dot[p[2], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[2], v[0]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[2], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*
+   dot[p[3], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[3], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][4]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[3], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][4]]*
+   dot[p[3], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*
+   dot[p[3], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*
+   dot[p[3], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], v[0]]*
+   dot[p[3], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[2], v[0]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[3], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], p[3]]*dot[p[3], v[0]]*
+   dot[p[3], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*
+   dot[p[3], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*
+   dot[p[3], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[1], \[Epsilon][4]]*dot[p[2], p[4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], \[Epsilon][4]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][3]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[4]]*dot[p[2], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], \[Epsilon][4]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][4]]*dot[p[3], p[4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], p[3]]*dot[p[3], \[Epsilon][4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], p[4]]*dot[p[3], \[Epsilon][4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], \[Epsilon][4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][3]]*dot[p[3], \[Epsilon][4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], p[4]]*dot[p[2], \[Epsilon][3]]*dot[p[3], \[Epsilon][4]]*
+   dot[p[4], v[0]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[2], p[3]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  (16*dot[p[1], p[3]]*dot[p[2], v[0]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[2], p[3]]*dot[p[2], v[0]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*
+   dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][4]]*
+   dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[1], \[Epsilon][4]]*
+    dot[p[2], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*
+    dot[p[2], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][4]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][4]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/dot[p[3], v[0]] + 
+  16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], \[Epsilon][4]]*
+   dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][4]]*dot[p[2], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[3]]*dot[p[1], p[4]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[4]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], v[0]]*
+    dot[p[3], \[Epsilon][4]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*
+    dot[p[3], \[Epsilon][4]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], p[4]]*
+   dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], p[2]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][3]]*
+   dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] - 
+  16*dot[p[1], \[Epsilon][3]]*dot[p[2], p[3]]*dot[p[3], p[4]]*
+   dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+   dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+   dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][2]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[2], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], p[4]]*
+    dot[p[2], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[4]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], v[0]]*
+    dot[p[3], p[4]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], v[0]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], p[4]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][3]]*dot[p[2], p[3]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], \[Epsilon][3]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[3]]*dot[p[1], p[4]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[3]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], \[Epsilon][3]]*dot[p[2], p[3]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][2]])/dot[p[4], v[0]] - 16*dot[p[1], p[2]]*dot[p[2], p[3]]*
+   dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+   dot[\[Epsilon][1], \[Epsilon][2]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], v[0]]*
+    dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*
+    dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], p[4]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[2], p[3]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], p[4]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[1], p[4]]*dot[p[2], v[0]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[2], p[3]]*dot[p[2], v[0]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], p[4]]*dot[p[2], v[0]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*dot[p[2], v[0]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], v[0]]*dot[p[3], p[4]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*dot[p[3], p[4]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]]*dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], v[0]]*dot[p[3], p[4]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]]*
+    (dot[p[3], v[0]] + dot[p[4], v[0]])) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*dot[p[3], p[4]]*
+    dot[v[0], \[Epsilon][3]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][2]])/(dot[p[3], v[0]]*
+    (dot[p[3], v[0]] + dot[p[4], v[0]])) - 16*dot[p[1], p[3]]*
+   dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][4]]*dot[p[3], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*dot[p[3], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 16*dot[p[1], p[3]]*
+   dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[2], p[3]]*dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] + 16*dot[p[1], p[2]]*
+   dot[p[1], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] + 16*dot[p[1], p[2]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][2]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 16*dot[p[1], p[3]]*
+   dot[p[1], \[Epsilon][2]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][4]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[2], p[3]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][4]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] + 16*dot[p[1], p[2]]*dot[p[3], v[0]]*
+   dot[p[3], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] + 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[1], \[Epsilon][4]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] + 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 16*dot[p[1], p[3]]*
+   dot[p[1], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 16*dot[p[1], p[4]]*
+   dot[p[1], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[2], p[3]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[2], p[4]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] + 16*dot[p[1], p[2]]*
+   dot[p[3], \[Epsilon][2]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] + 16*dot[p[1], p[2]]*
+   dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*
+   dot[\[Epsilon][1], \[Epsilon][3]] - 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][2]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[1], \[Epsilon][4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[2], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][4]]*dot[v[0], \[Epsilon][2]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/dot[p[2], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[3], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[2], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[2], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[3], \[Epsilon][4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[2], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[4], v[0]]) + 
+  16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[3], p[4]]*
+   dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][3]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[3], p[4]]*
+   dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][3]] - 
+  16*dot[p[1], p[2]]*dot[p[3], p[4]]*dot[p[3], \[Epsilon][2]]*
+   dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], \[Epsilon][3]] + 
+  (16*dot[p[1], p[3]]*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][1], 
+     \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[4]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[3], p[4]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[3], v[0]]*
+    dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[3], p[4]]*
+    dot[v[0], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/dot[p[2], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[1], p[4]]*dot[p[3], v[0]]*
+    dot[v[0], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/(dot[p[2], v[0]]*dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], p[4]]*dot[p[3], v[0]]*
+    dot[v[0], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/(dot[p[2], v[0]]*dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[3], p[4]]*dot[p[3], v[0]]*
+    dot[v[0], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/(dot[p[2], v[0]]*dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], p[4]]*dot[p[3], v[0]]*
+    dot[v[0], \[Epsilon][2]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][1], \[Epsilon][3]])/(dot[p[2], v[0]]*
+    (dot[p[2], v[0]] + dot[p[4], v[0]])) - 16*dot[p[1], p[4]]*
+   dot[p[1], \[Epsilon][2]]*dot[p[1], \[Epsilon][3]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][4]] - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[1], \[Epsilon][3]]*dot[p[2], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][4]] - 16*dot[p[1], p[4]]*
+   dot[p[1], \[Epsilon][2]]*dot[p[2], \[Epsilon][3]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][4]] - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[2], p[4]]*dot[p[2], \[Epsilon][3]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][4]] - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[1], \[Epsilon][3]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][4]] - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][4]] - 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][2]]*dot[p[4], v[0]]*dot[\[Epsilon][1], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]]) + 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][2]]*dot[\[Epsilon][1], \[Epsilon][4]] + 
+  16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][2]]*dot[\[Epsilon][1], \[Epsilon][4]] + 
+  16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][4]] + 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][4]] - 
+  16*dot[p[1], p[2]]*dot[p[3], \[Epsilon][2]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][1], \[Epsilon][4]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[1], \[Epsilon][3]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][1], 
+     \[Epsilon][4]])/dot[p[2], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][1], 
+     \[Epsilon][4]])/dot[p[2], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][1], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[4], v[0]]*
+    dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][2]]*
+    dot[\[Epsilon][1], \[Epsilon][4]])/dot[p[2], v[0]] + 
+  (16*dot[p[1], p[3]]*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][4]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[4]]*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][4]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][4]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][4]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[3], \[Epsilon][2]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][1], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[4], v[0]]*
+    dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][1], \[Epsilon][4]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+    dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][1], \[Epsilon][4]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[1], p[4]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][2]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][1], \[Epsilon][4]])/(dot[p[2], v[0]]*dot[p[3], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][2]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][1], \[Epsilon][4]])/(dot[p[2], v[0]]*dot[p[3], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][2]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][1], \[Epsilon][4]])/(dot[p[2], v[0]]*
+    (dot[p[2], v[0]] + dot[p[3], v[0]])) + 16*dot[p[1], p[3]]*
+   dot[p[1], \[Epsilon][4]]*dot[p[2], \[Epsilon][1]]*dot[p[3], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] + 16*dot[p[1], \[Epsilon][4]]*
+   dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[3], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] + 16*dot[p[1], p[3]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] + 16*dot[p[2], p[3]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] - 16*dot[p[1], p[2]]*
+   dot[p[1], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] - 16*dot[p[1], p[2]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][1]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] + 16*dot[p[1], p[3]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][4]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] + 16*dot[p[2], p[3]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], v[0]]*dot[p[3], \[Epsilon][4]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] - 16*dot[p[1], p[2]]*dot[p[3], v[0]]*
+   dot[p[3], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] - 16*dot[p[1], \[Epsilon][4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] - 16*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][4]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] + 16*dot[p[1], p[3]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] + 16*dot[p[1], p[4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] + 16*dot[p[2], p[3]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] + 16*dot[p[2], p[4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] - 16*dot[p[1], p[2]]*
+   dot[p[3], \[Epsilon][1]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[3], v[0]]*
+    dot[p[4], v[0]]*dot[p[4], \[Epsilon][1]]*dot[\[Epsilon][2], 
+     \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[3], v[0]]) - 
+  16*dot[p[1], p[2]]*dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][1]]*dot[\[Epsilon][2], \[Epsilon][3]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][4]]*dot[p[2], p[3]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][1]]*dot[\[Epsilon][2], 
+     \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[3], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][1]]*dot[\[Epsilon][2], 
+     \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][4]]*dot[v[0], \[Epsilon][1]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) - (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][4]]*
+    dot[p[3], p[4]]*dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) + (16*dot[p[1], p[2]]*dot[p[2], p[3]]*
+    dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) + (16*dot[p[1], p[2]]*dot[p[2], p[4]]*
+    dot[p[3], \[Epsilon][4]]*dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) - 16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[3], p[4]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][2], 
+    \[Epsilon][3]] - 16*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*
+   dot[p[3], p[4]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][2], 
+    \[Epsilon][3]] + 16*dot[p[1], p[2]]*dot[p[3], p[4]]*
+   dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]]*
+   dot[\[Epsilon][2], \[Epsilon][3]] - 
+  (16*dot[p[1], p[3]]*dot[p[1], p[4]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][2], 
+     \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[4]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][2], 
+     \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[3]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][2], 
+     \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[2], p[3]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][2], 
+     \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][2], 
+     \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][4]]*dot[\[Epsilon][2], 
+     \[Epsilon][3]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[4]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/dot[p[4], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[3], p[4]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/dot[p[4], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], v[0]]*
+    dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[3], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[2], p[3]]*dot[p[3], v[0]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/((dot[p[2], v[0]] + dot[p[3], v[0]])*
+    dot[p[4], v[0]]) - (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], p[4]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) - (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*
+    dot[p[3], v[0]]*dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/(dot[p[4], v[0]]*
+    (dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]])) - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], p[4]]*dot[p[3], v[0]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][4]]*
+    dot[\[Epsilon][2], \[Epsilon][3]])/(dot[p[4], v[0]]*
+    (dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]])) + 
+  16*dot[p[1], p[2]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][4]]*dot[\[Epsilon][2], \[Epsilon][3]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[4]]*dot[p[3], v[0]]*dot[p[4], v[0]]*
+    dot[\[Epsilon][1], \[Epsilon][4]]*dot[\[Epsilon][2], \[Epsilon][3]])/
+   (dot[p[2], v[0]] + dot[p[3], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], v[0]]*dot[p[4], v[0]]*
+    dot[\[Epsilon][1], \[Epsilon][4]]*dot[\[Epsilon][2], \[Epsilon][3]])/
+   (dot[p[2], v[0]] + dot[p[3], v[0]]) + 16*dot[p[1], p[4]]*
+   dot[p[1], \[Epsilon][3]]*dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][4]] + 16*dot[p[1], \[Epsilon][3]]*
+   dot[p[2], p[4]]*dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][4]] + 16*dot[p[1], p[4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][4]] + 16*dot[p[2], p[4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[2], \[Epsilon][3]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][4]] + 16*dot[p[1], \[Epsilon][3]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][4]] + 16*dot[p[2], \[Epsilon][1]]*
+   dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][2], \[Epsilon][4]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[3], v[0]]*
+    dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*dot[\[Epsilon][2], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[4], v[0]]) - 
+  16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][1]]*dot[\[Epsilon][2], \[Epsilon][4]] - 
+  16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][1]]*dot[\[Epsilon][2], \[Epsilon][4]] - 
+  16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][2], \[Epsilon][4]] - 
+  16*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][2], \[Epsilon][4]] + 
+  16*dot[p[1], p[2]]*dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][3]]*dot[\[Epsilon][2], \[Epsilon][4]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], \[Epsilon][3]]*dot[p[2], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*dot[\[Epsilon][2], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][3]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*dot[\[Epsilon][2], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], \[Epsilon][3]]*dot[p[3], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*dot[\[Epsilon][2], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+    dot[p[4], \[Epsilon][3]]*dot[v[0], \[Epsilon][1]]*
+    dot[\[Epsilon][2], \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) - (16*dot[p[1], p[3]]*dot[p[1], p[4]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][2], \[Epsilon][4]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[4]]*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][2], 
+     \[Epsilon][4]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[3]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][2], 
+     \[Epsilon][4]])/dot[p[3], v[0]] - 
+  (16*dot[p[2], p[3]]*dot[p[2], p[4]]*dot[p[2], \[Epsilon][1]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][2], 
+     \[Epsilon][4]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[4]]*dot[p[3], \[Epsilon][1]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][3]]*dot[\[Epsilon][2], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[4], v[0]]*
+    dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][2], \[Epsilon][4]])/dot[p[3], v[0]] + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+    dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][2], \[Epsilon][4]])/dot[p[3], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], p[4]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][2], \[Epsilon][4]])/(dot[p[3], v[0]]*
+    (dot[p[2], v[0]] + dot[p[4], v[0]])) - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], p[4]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][3]]*
+    dot[\[Epsilon][2], \[Epsilon][4]])/(dot[p[3], v[0]]*
+    (dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]])) - 
+  16*dot[p[1], p[2]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][3]]*dot[\[Epsilon][2], \[Epsilon][4]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[3], v[0]]*dot[p[4], v[0]]*
+    dot[\[Epsilon][1], \[Epsilon][3]]*dot[\[Epsilon][2], \[Epsilon][4]])/
+   (dot[p[2], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[4]]*dot[p[3], v[0]]*dot[p[4], v[0]]*
+    dot[\[Epsilon][1], \[Epsilon][3]]*dot[\[Epsilon][2], \[Epsilon][4]])/
+   (dot[p[2], v[0]] + dot[p[4], v[0]]) - 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][3], \[Epsilon][4]] + 16*dot[p[1], p[4]]*
+   dot[p[1], \[Epsilon][2]]*dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][3], \[Epsilon][4]] + 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[2], p[4]]*dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][3], \[Epsilon][4]] + 16*dot[p[1], \[Epsilon][2]]*
+   dot[p[3], p[4]]*dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][3], \[Epsilon][4]] - 16*dot[p[1], p[4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][2]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][3], \[Epsilon][4]] - 16*dot[p[2], p[4]]*
+   dot[p[2], \[Epsilon][1]]*dot[p[3], \[Epsilon][2]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][3], \[Epsilon][4]] - 16*dot[p[2], \[Epsilon][1]]*
+   dot[p[3], p[4]]*dot[p[3], \[Epsilon][2]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][3], \[Epsilon][4]] - 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*dot[\[Epsilon][3], 
+     \[Epsilon][4]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*
+    dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*dot[\[Epsilon][3], 
+     \[Epsilon][4]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][1]]*dot[\[Epsilon][3], \[Epsilon][4]] - 
+  16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][1]]*dot[\[Epsilon][3], \[Epsilon][4]] + 
+  16*dot[p[1], p[2]]*dot[p[3], \[Epsilon][2]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][1]]*dot[\[Epsilon][3], \[Epsilon][4]] + 
+  16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]] + 
+  16*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]] - 
+  16*dot[p[1], p[2]]*dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*
+   dot[p[4], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]] + 
+  (16*dot[p[1], p[3]]*dot[p[1], \[Epsilon][2]]*dot[p[3], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*dot[\[Epsilon][3], 
+     \[Epsilon][4]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], \[Epsilon][2]]*dot[p[2], p[3]]*dot[p[3], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*dot[\[Epsilon][3], 
+     \[Epsilon][4]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[4]]*dot[p[3], \[Epsilon][2]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*dot[\[Epsilon][3], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[1], p[2]]*dot[p[3], p[4]]*dot[p[3], \[Epsilon][2]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][1]]*dot[\[Epsilon][3], 
+     \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+    dot[p[4], \[Epsilon][2]]*dot[v[0], \[Epsilon][1]]*
+    dot[\[Epsilon][3], \[Epsilon][4]])/(dot[p[2], v[0]] + dot[p[3], v[0]] + 
+    dot[p[4], v[0]]) - (16*dot[p[1], p[2]]*dot[p[1], p[4]]*
+    dot[p[3], \[Epsilon][1]]*dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*
+    dot[\[Epsilon][3], \[Epsilon][4]])/dot[p[2], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[3], p[4]]*dot[p[3], \[Epsilon][1]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][3], 
+     \[Epsilon][4]])/dot[p[2], v[0]] - 
+  (16*dot[p[1], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][3], 
+     \[Epsilon][4]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) - 
+  (16*dot[p[2], p[3]]*dot[p[2], \[Epsilon][1]]*dot[p[3], p[4]]*
+    dot[p[4], v[0]]*dot[v[0], \[Epsilon][2]]*dot[\[Epsilon][3], 
+     \[Epsilon][4]])/(dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[4], v[0]]*
+    dot[p[4], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[\[Epsilon][3], \[Epsilon][4]])/dot[p[2], v[0]] - 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[\[Epsilon][3], \[Epsilon][4]])/(dot[p[2], v[0]]*
+    (dot[p[3], v[0]] + dot[p[4], v[0]])) - 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[\[Epsilon][3], \[Epsilon][4]])/(dot[p[2], v[0]]*
+    (dot[p[3], v[0]] + dot[p[4], v[0]])) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+    dot[v[0], \[Epsilon][1]]*dot[v[0], \[Epsilon][2]]*
+    dot[\[Epsilon][3], \[Epsilon][4]])/(dot[p[2], v[0]]*
+    (dot[p[2], v[0]] + dot[p[3], v[0]] + dot[p[4], v[0]])) + 
+  16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]] + 
+  16*dot[p[1], p[4]]*dot[p[2], p[3]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]] - 
+  16*dot[p[1], p[3]]*dot[p[2], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]] + 
+  16*dot[p[2], p[3]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+   dot[\[Epsilon][1], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]] + 
+  (16*dot[p[1], p[2]]*dot[p[1], p[3]]*dot[p[2], v[0]]*dot[p[4], v[0]]*
+    dot[\[Epsilon][1], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]])/
+   (dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[2]]*dot[p[2], p[3]]*dot[p[2], v[0]]*dot[p[4], v[0]]*
+    dot[\[Epsilon][1], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]])/
+   (dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[1], p[3]]*dot[p[2], v[0]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+    dot[\[Epsilon][1], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]])/
+   (dot[p[3], v[0]] + dot[p[4], v[0]]) + 
+  (16*dot[p[2], p[3]]*dot[p[2], v[0]]*dot[p[3], p[4]]*dot[p[4], v[0]]*
+    dot[\[Epsilon][1], \[Epsilon][2]]*dot[\[Epsilon][3], \[Epsilon][4]])/
+   (dot[p[3], v[0]] + dot[p[4], v[0]])}
